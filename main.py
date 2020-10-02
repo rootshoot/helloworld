@@ -6,4 +6,4 @@ print("Hello Jatin")
 def fun(name):
   print('Hello {}'.format(name))
 fun('World')
-
+print("Hello Ritik")
