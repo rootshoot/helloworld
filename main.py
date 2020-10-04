@@ -8,4 +8,7 @@ def fun(name):
   print('Hello {}'.format(name))
 fun('World')
 print("Hello Ritik")
+
+print("Hi")
 print("hey its csk")
+
