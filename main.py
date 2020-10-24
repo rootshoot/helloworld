@@ -15,4 +15,4 @@ print("Hello Ritik")
 
 print("Hi")
 print("hey its csk")
-
+pritn("Hello Aditya")
